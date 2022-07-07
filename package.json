@@ -19,9 +19,9 @@
   },
   "homepage": "https://github.com/mobehnas/Progressive-Web-Applications-PWA--Budget-Tracker#readme",
   "dependencies": {
+    "compression": "^1.7.4",
     "express": "^4.18.1",
-    "mongodb": "^4.7.0",
-    "mongoose": "^6.4.2",
+    "mongoose": "^6.4.3",
     "morgan": "^1.10.0"
   }
 }
