@@ -15,3 +15,21 @@ WHEN the user reestablishes an internet connection
 THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated
 ```
 
+## Installation
+
+To install the required dependencies, run `npm install`
+
+## Usage
+
+To start the server, run `npm start`. To access the app after starting the server, go to http://localhost:3001 in your browser.
+
+
+
+## Screenshots
+
+
+## Link
+
+[Deployed Heroku App Here!]
+
+
