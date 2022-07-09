@@ -41,6 +41,6 @@ To start the server, run `npm start`. To access the app after starting the serve
 
 
  ## Repository:
-  * The URL of the deployed application: https://github.com/mobehnas/Progressive-Web-Applications-PWA--Budget-Tracker
+  * The GitHub URL of the deployed application: https://github.com/mobehnas/Progressive-Web-Applications-PWA--Budget-Tracker
 
 
