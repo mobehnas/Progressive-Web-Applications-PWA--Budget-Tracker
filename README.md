@@ -34,4 +34,7 @@ To start the server, run `npm start`. To access the app after starting the serve
 - The ability to enter expenses offline.
 - Offline entries should be added to the tracker when the application is brought back online
 
+ ## Repository:
+  * The URL of the deployed application: https://github.com/mobehnas/Progressive-Web-Applications-PWA--Budget-Tracker
+
 
