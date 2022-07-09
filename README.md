@@ -36,8 +36,9 @@ To start the server, run `npm start`. To access the app after starting the serve
 
 ## Future Development Plans :
 <b>Future enhancements to this app include:</b>
--use IndexedDB for offline functionality
--Application be deployed to Heroku
+ - use IndexedDB for offline functionality
+ - Application be deployed to Heroku
+
 
  ## Repository:
   * The URL of the deployed application: https://github.com/mobehnas/Progressive-Web-Applications-PWA--Budget-Tracker
